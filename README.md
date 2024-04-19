@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Halo 👋, I'm Ashwani</h1> 
-<h3 align="center">Software Engineer | Web3 Enthusiast | Cloud | MERN | Open Source</h3>
+<h3 align="center">Software Engineer | Java Full Stack </h3>
 
 **I build websites using MERN/MEAN stack. I love Open-Source projects and tools. Sometimes I do trading.**
 <br/>
