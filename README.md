@@ -3,7 +3,7 @@
 <h1 align="center">Halo 👋, I'm Ashwani</h1> 
 <h3 align="center">Software Engineer | Java Full Stack </h3>
 
-**I build websites using MERN/MEAN stack. I love Open-Source projects and tools. Sometimes I do trading.**
+**I build webapps using Angular and Spring Boot. I love Open-Source projects and tools. Sometimes I do trading.**
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eagerashwani&label=Profile%20views&color=0e75b6&style=flat" alt="eagerashwani" /> </p>
